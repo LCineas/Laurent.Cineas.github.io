@@ -1,2 +1,2 @@
 # Laurent.Cineas.github.io
-LAurent Cineas
+Laurent Cineas
